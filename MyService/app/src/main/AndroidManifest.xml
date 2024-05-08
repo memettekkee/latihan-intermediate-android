@@ -2,6 +2,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_DATA_SYNC"/>
+<!--    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_LOCATION"/>-->
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -13,9 +18,14 @@
         android:theme="@style/Theme.MyService"
         tools:targetApi="31">
         <service
+            android:name="com.MyForegroundService"
+            android:enabled="true"
+            android:foregroundServiceType="dataSync"
+            android:exported="true"></service>
+        <service
             android:name="com.MyBackgroundService"
             android:enabled="true"
-            android:exported="true"></service>
+            android:exported="true" />
 
         <activity
             android:name=".MainActivity"
