@@ -1,0 +1,193 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.dicoding.picodiploma.mycamera"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="33" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:5:5-67
+11-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <uses-feature android:name="android.hardware.camera" />
+13-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:8:5-60
+13-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:8:19-57
+14
+15    <uses-permission android:name="android.permission.CAMERA" />
+15-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:9:5-65
+15-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:9:22-62
+16    <uses-permission
+16-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:10:5-12:38
+17        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+17-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:11:9-65
+18        android:maxSdkVersion="28" />
+18-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:12:9-35
+19
+20    <permission
+20-->[androidx.core:core:1.10.1] C:\Users\Mamet\.gradle\caches\transforms-3\60d466498e012f605b705a9705ddcfb5\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+21        android:name="com.dicoding.picodiploma.mycamera.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+21-->[androidx.core:core:1.10.1] C:\Users\Mamet\.gradle\caches\transforms-3\60d466498e012f605b705a9705ddcfb5\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+22        android:protectionLevel="signature" />
+22-->[androidx.core:core:1.10.1] C:\Users\Mamet\.gradle\caches\transforms-3\60d466498e012f605b705a9705ddcfb5\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+23
+24    <uses-permission android:name="com.dicoding.picodiploma.mycamera.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+24-->[androidx.core:core:1.10.1] C:\Users\Mamet\.gradle\caches\transforms-3\60d466498e012f605b705a9705ddcfb5\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+24-->[androidx.core:core:1.10.1] C:\Users\Mamet\.gradle\caches\transforms-3\60d466498e012f605b705a9705ddcfb5\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+25
+26    <application
+26-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:15:5-58:19
+27        android:allowBackup="true"
+27-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:16:9-35
+28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+28-->[androidx.core:core:1.10.1] C:\Users\Mamet\.gradle\caches\transforms-3\60d466498e012f605b705a9705ddcfb5\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+29        android:debuggable="true"
+30        android:extractNativeLibs="false"
+31        android:icon="@mipmap/ic_launcher"
+31-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:17:9-43
+32        android:label="@string/app_name"
+32-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:18:9-41
+33        android:roundIcon="@mipmap/ic_launcher_round"
+33-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:19:9-54
+34        android:supportsRtl="true"
+34-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:20:9-35
+35        android:testOnly="true"
+36        android:theme="@style/Theme.MyCamera" >
+36-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:21:9-46
+37        <activity
+37-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:23:9-31:20
+38            android:name="com.dicoding.picodiploma.mycamera.MainActivity"
+38-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:24:13-41
+39            android:exported="true" >
+39-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:25:13-36
+40            <intent-filter>
+40-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:26:13-30:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:27:17-69
+41-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:27:25-66
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:29:17-77
+43-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:29:27-74
+44            </intent-filter>
+45        </activity>
+46        <activity
+46-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:34:9-36:39
+47            android:name="com.dicoding.picodiploma.mycamera.CameraActivity"
+47-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:35:13-43
+48            android:exported="false" />
+48-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:36:13-37
+49
+50        <provider
+51            android:name="androidx.core.content.FileProvider"
+51-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:39:13-62
+52            android:authorities="com.dicoding.picodiploma.mycamera.fileprovider"
+52-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:40:13-64
+53            android:exported="false"
+53-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:41:13-37
+54            android:grantUriPermissions="true" >
+54-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:42:13-47
+55            <meta-data
+55-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:43:13-45:53
+56                android:name="android.support.FILE_PROVIDER_PATHS"
+56-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:44:17-67
+57                android:resource="@xml/file_paths" />
+57-->E:\Github Reposit\latihan-intermediate-android\StoryApp\app\src\main\AndroidManifest.xml:45:17-51
+58        </provider>
+59
+60        <!-- <service android:name="com.google.android.gms.metadata.ModuleDependencies" -->
+61        <!-- android:enabled="false" -->
+62        <!-- android:exported="false" -->
+63        <!-- tools:ignore="MissingClass"> -->
+64        <!-- <intent-filter> -->
+65        <!-- <action android:name="com.google.android.gms.metadata.MODULE_DEPENDENCIES" /> -->
+66        <!-- </intent-filter> -->
+67        <!-- <meta-data android:name="photopicker_activity:0:required" android:value="" /> -->
+68        <!-- </service> -->
+69
+70        <service
+70-->[androidx.camera:camera-camera2:1.2.3] C:\Users\Mamet\.gradle\caches\transforms-3\08227905a3534a5d73b3248d289ebbe3\transformed\jetified-camera-camera2-1.2.3\AndroidManifest.xml:24:9-33:19
+71            android:name="androidx.camera.core.impl.MetadataHolderService"
+71-->[androidx.camera:camera-camera2:1.2.3] C:\Users\Mamet\.gradle\caches\transforms-3\08227905a3534a5d73b3248d289ebbe3\transformed\jetified-camera-camera2-1.2.3\AndroidManifest.xml:25:13-75
+72            android:enabled="false"
+72-->[androidx.camera:camera-camera2:1.2.3] C:\Users\Mamet\.gradle\caches\transforms-3\08227905a3534a5d73b3248d289ebbe3\transformed\jetified-camera-camera2-1.2.3\AndroidManifest.xml:26:13-36
+73            android:exported="false" >
+73-->[androidx.camera:camera-camera2:1.2.3] C:\Users\Mamet\.gradle\caches\transforms-3\08227905a3534a5d73b3248d289ebbe3\transformed\jetified-camera-camera2-1.2.3\AndroidManifest.xml:27:13-37
+74            <meta-data
+74-->[androidx.camera:camera-camera2:1.2.3] C:\Users\Mamet\.gradle\caches\transforms-3\08227905a3534a5d73b3248d289ebbe3\transformed\jetified-camera-camera2-1.2.3\AndroidManifest.xml:30:13-32:89
+75                android:name="androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER"
+75-->[androidx.camera:camera-camera2:1.2.3] C:\Users\Mamet\.gradle\caches\transforms-3\08227905a3534a5d73b3248d289ebbe3\transformed\jetified-camera-camera2-1.2.3\AndroidManifest.xml:31:17-103
+76                android:value="androidx.camera.camera2.Camera2Config$DefaultProvider" />
+76-->[androidx.camera:camera-camera2:1.2.3] C:\Users\Mamet\.gradle\caches\transforms-3\08227905a3534a5d73b3248d289ebbe3\transformed\jetified-camera-camera2-1.2.3\AndroidManifest.xml:32:17-86
+77        </service>
+78
+79        <provider
+79-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\37e1aef40a40b7c0ab37ea02ebd904d1\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+80            android:name="androidx.startup.InitializationProvider"
+80-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\37e1aef40a40b7c0ab37ea02ebd904d1\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+81            android:authorities="com.dicoding.picodiploma.mycamera.androidx-startup"
+81-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\37e1aef40a40b7c0ab37ea02ebd904d1\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+82            android:exported="false" >
+82-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\37e1aef40a40b7c0ab37ea02ebd904d1\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+83            <meta-data
+83-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\37e1aef40a40b7c0ab37ea02ebd904d1\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+84                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+84-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\37e1aef40a40b7c0ab37ea02ebd904d1\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+85                android:value="androidx.startup" />
+85-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\37e1aef40a40b7c0ab37ea02ebd904d1\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+86            <meta-data
+86-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Mamet\.gradle\caches\transforms-3\db317693fcfe30df086f21a83ae588ae\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+87                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+87-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Mamet\.gradle\caches\transforms-3\db317693fcfe30df086f21a83ae588ae\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+88                android:value="androidx.startup" />
+88-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Mamet\.gradle\caches\transforms-3\db317693fcfe30df086f21a83ae588ae\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+89            <meta-data
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\f40735fd66cb470503802d5f9f1b23c6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+90                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+90-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\f40735fd66cb470503802d5f9f1b23c6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+91                android:value="androidx.startup" />
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\f40735fd66cb470503802d5f9f1b23c6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+92        </provider>
+93
+94        <receiver
+94-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\f40735fd66cb470503802d5f9f1b23c6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+95            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+95-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\f40735fd66cb470503802d5f9f1b23c6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+96            android:directBootAware="false"
+96-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\f40735fd66cb470503802d5f9f1b23c6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+97            android:enabled="true"
+97-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\f40735fd66cb470503802d5f9f1b23c6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+98            android:exported="true"
+98-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\f40735fd66cb470503802d5f9f1b23c6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+99            android:permission="android.permission.DUMP" >
+99-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\f40735fd66cb470503802d5f9f1b23c6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+100            <intent-filter>
+100-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\f40735fd66cb470503802d5f9f1b23c6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+101                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+101-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\f40735fd66cb470503802d5f9f1b23c6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+101-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\f40735fd66cb470503802d5f9f1b23c6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+102            </intent-filter>
+103            <intent-filter>
+103-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\f40735fd66cb470503802d5f9f1b23c6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+104                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+104-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\f40735fd66cb470503802d5f9f1b23c6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+104-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\f40735fd66cb470503802d5f9f1b23c6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+105            </intent-filter>
+106            <intent-filter>
+106-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\f40735fd66cb470503802d5f9f1b23c6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+107                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+107-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\f40735fd66cb470503802d5f9f1b23c6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+107-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\f40735fd66cb470503802d5f9f1b23c6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+108            </intent-filter>
+109            <intent-filter>
+109-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\f40735fd66cb470503802d5f9f1b23c6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+110                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+110-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\f40735fd66cb470503802d5f9f1b23c6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+110-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\f40735fd66cb470503802d5f9f1b23c6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+111            </intent-filter>
+112        </receiver>
+113    </application>
+114
+115</manifest>

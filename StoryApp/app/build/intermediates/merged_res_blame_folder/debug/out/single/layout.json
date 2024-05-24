@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-mergeDebugResources-31:\\layout\\activity_camera.xml",
+        "source": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-main-34:\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mycamera.app-mergeDebugResources-31:/layout/activity_camera.xml",
+        "source": "com.dicoding.picodiploma.mycamera.app-main-34:/layout/activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-mergeDebugResources-31:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-main-34:\\layout\\activity_main.xml"
+    }
+]

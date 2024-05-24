@@ -1,0 +1,35 @@
+com.dicoding.picodiploma.mycamera.app-jetified-lifecycle-process-2.4.1-0 C:\Users\Mamet\.gradle\caches\transforms-3\24918678b495b6e73798427d32008e10\transformed\jetified-lifecycle-process-2.4.1\res
+com.dicoding.picodiploma.mycamera.app-jetified-appcompat-resources-1.6.1-1 C:\Users\Mamet\.gradle\caches\transforms-3\25ee1406be50b21bfe16ca37f68efb35\transformed\jetified-appcompat-resources-1.6.1\res
+com.dicoding.picodiploma.mycamera.app-jetified-core-ktx-1.10.1-2 C:\Users\Mamet\.gradle\caches\transforms-3\2b776941497cda1a5964f1f3a64adb3a\transformed\jetified-core-ktx-1.10.1\res
+com.dicoding.picodiploma.mycamera.app-jetified-savedstate-1.2.0-3 C:\Users\Mamet\.gradle\caches\transforms-3\33c9b1e5205c708ced137f6212e3a1fb\transformed\jetified-savedstate-1.2.0\res
+com.dicoding.picodiploma.mycamera.app-jetified-emoji2-1.2.0-4 C:\Users\Mamet\.gradle\caches\transforms-3\38f2e3cabd735e65fb701e4194c8b5af\transformed\jetified-emoji2-1.2.0\res
+com.dicoding.picodiploma.mycamera.app-lifecycle-livedata-core-2.5.1-5 C:\Users\Mamet\.gradle\caches\transforms-3\3970aaa22defc05eb4b16205ec3e9024\transformed\lifecycle-livedata-core-2.5.1\res
+com.dicoding.picodiploma.mycamera.app-lifecycle-viewmodel-2.5.1-6 C:\Users\Mamet\.gradle\caches\transforms-3\4850d7cd0d601f908b8708884dfe2bed\transformed\lifecycle-viewmodel-2.5.1\res
+com.dicoding.picodiploma.mycamera.app-fragment-1.3.6-7 C:\Users\Mamet\.gradle\caches\transforms-3\4d0365cf741d988a2b394092c2cc993f\transformed\fragment-1.3.6\res
+com.dicoding.picodiploma.mycamera.app-jetified-emoji2-views-helper-1.2.0-8 C:\Users\Mamet\.gradle\caches\transforms-3\66694220ce89c985676b6b6f0ad82153\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.dicoding.picodiploma.mycamera.app-cardview-1.0.0-9 C:\Users\Mamet\.gradle\caches\transforms-3\7df5a6849eb7bfb50a1ffd70b3ed604a\transformed\cardview-1.0.0\res
+com.dicoding.picodiploma.mycamera.app-jetified-camera-view-1.2.3-10 C:\Users\Mamet\.gradle\caches\transforms-3\8400b89c2002abd7a4e2fd02e5ce8044\transformed\jetified-camera-view-1.2.3\res
+com.dicoding.picodiploma.mycamera.app-core-1.10.1-11 C:\Users\Mamet\.gradle\caches\transforms-3\882a4d3e6fd43968013ab3b708094946\transformed\core-1.10.1\res
+com.dicoding.picodiploma.mycamera.app-jetified-viewpager2-1.0.0-12 C:\Users\Mamet\.gradle\caches\transforms-3\9659bc5484bb556882d7c827f4f06ba5\transformed\jetified-viewpager2-1.0.0\res
+com.dicoding.picodiploma.mycamera.app-jetified-camera-core-1.2.3-13 C:\Users\Mamet\.gradle\caches\transforms-3\9961239168186d0d93d04b514391b293\transformed\jetified-camera-core-1.2.3\res
+com.dicoding.picodiploma.mycamera.app-drawerlayout-1.1.1-14 C:\Users\Mamet\.gradle\caches\transforms-3\a8a37703ade5cf61a8260cf41378c6eb\transformed\drawerlayout-1.1.1\res
+com.dicoding.picodiploma.mycamera.app-coordinatorlayout-1.1.0-15 C:\Users\Mamet\.gradle\caches\transforms-3\aae91345b8697b339fdf17e841628d62\transformed\coordinatorlayout-1.1.0\res
+com.dicoding.picodiploma.mycamera.app-jetified-camera-lifecycle-1.2.3-16 C:\Users\Mamet\.gradle\caches\transforms-3\ae0b50b02565cfa5a8700758fcfffdfa\transformed\jetified-camera-lifecycle-1.2.3\res
+com.dicoding.picodiploma.mycamera.app-jetified-activity-1.6.0-17 C:\Users\Mamet\.gradle\caches\transforms-3\b5d23335f53a12bcab5257643680b53e\transformed\jetified-activity-1.6.0\res
+com.dicoding.picodiploma.mycamera.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-18 C:\Users\Mamet\.gradle\caches\transforms-3\b6d3b30bcfe1cebc3cc81b7a60b3e4fd\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.dicoding.picodiploma.mycamera.app-constraintlayout-2.1.4-19 C:\Users\Mamet\.gradle\caches\transforms-3\ba3dc652d2a2da01a98c24d858c52c96\transformed\constraintlayout-2.1.4\res
+com.dicoding.picodiploma.mycamera.app-material-1.9.0-20 C:\Users\Mamet\.gradle\caches\transforms-3\beaecc9d48e81ba89767d48befcf7f9c\transformed\material-1.9.0\res
+com.dicoding.picodiploma.mycamera.app-appcompat-1.6.1-21 C:\Users\Mamet\.gradle\caches\transforms-3\c0d2fc3d4feadc677c42267f31514445\transformed\appcompat-1.6.1\res
+com.dicoding.picodiploma.mycamera.app-transition-1.2.0-22 C:\Users\Mamet\.gradle\caches\transforms-3\c7267ff88676548240b0913d1f34f0e4\transformed\transition-1.2.0\res
+com.dicoding.picodiploma.mycamera.app-jetified-annotation-experimental-1.3.0-23 C:\Users\Mamet\.gradle\caches\transforms-3\cfeb81d14758c2e0a1c1b9e414402851\transformed\jetified-annotation-experimental-1.3.0\res
+com.dicoding.picodiploma.mycamera.app-jetified-startup-runtime-1.1.1-24 C:\Users\Mamet\.gradle\caches\transforms-3\d5a03fd48a91147e9c25abaa2fd44fe3\transformed\jetified-startup-runtime-1.1.1\res
+com.dicoding.picodiploma.mycamera.app-jetified-camera-camera2-1.2.3-25 C:\Users\Mamet\.gradle\caches\transforms-3\d74b933f39cc5ba00eb7911f72996077\transformed\jetified-camera-camera2-1.2.3\res
+com.dicoding.picodiploma.mycamera.app-recyclerview-1.1.0-26 C:\Users\Mamet\.gradle\caches\transforms-3\f50d117eaa1625920a4d47453d54a3bf\transformed\recyclerview-1.1.0\res
+com.dicoding.picodiploma.mycamera.app-lifecycle-runtime-2.5.1-27 C:\Users\Mamet\.gradle\caches\transforms-3\f94b953c5a2e32d4fb454f8ebea0a871\transformed\lifecycle-runtime-2.5.1\res
+com.dicoding.picodiploma.mycamera.app-pngs-28 E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\build\generated\res\pngs\debug
+com.dicoding.picodiploma.mycamera.app-resValues-29 E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\build\generated\res\resValues\debug
+com.dicoding.picodiploma.mycamera.app-mergeDebugResources-30 E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.dicoding.picodiploma.mycamera.app-mergeDebugResources-31 E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.dicoding.picodiploma.mycamera.app-merged_res-32 E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\build\intermediates\merged_res\debug
+com.dicoding.picodiploma.mycamera.app-debug-33 E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\debug\res
+com.dicoding.picodiploma.mycamera.app-main-34 E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\res

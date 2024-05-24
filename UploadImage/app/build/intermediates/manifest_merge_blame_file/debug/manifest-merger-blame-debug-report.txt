@@ -1,0 +1,145 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.dicoding.picodiploma.mycamera"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="33" />
+10
+11    <uses-feature android:name="android.hardware.camera" />
+11-->E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\AndroidManifest.xml:6:5-60
+11-->E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\AndroidManifest.xml:6:19-57
+12
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\AndroidManifest.xml:7:5-65
+13-->E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\AndroidManifest.xml:7:22-62
+14    <uses-permission
+14-->E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\AndroidManifest.xml:8:5-10:38
+15        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+15-->E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\AndroidManifest.xml:9:9-65
+16        android:maxSdkVersion="28" />
+16-->E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\AndroidManifest.xml:10:9-35
+17
+18    <permission
+18-->[androidx.core:core:1.10.1] C:\Users\Mamet\.gradle\caches\transforms-3\882a4d3e6fd43968013ab3b708094946\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+19        android:name="com.dicoding.picodiploma.mycamera.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+19-->[androidx.core:core:1.10.1] C:\Users\Mamet\.gradle\caches\transforms-3\882a4d3e6fd43968013ab3b708094946\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+20        android:protectionLevel="signature" />
+20-->[androidx.core:core:1.10.1] C:\Users\Mamet\.gradle\caches\transforms-3\882a4d3e6fd43968013ab3b708094946\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+21
+22    <uses-permission android:name="com.dicoding.picodiploma.mycamera.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+22-->[androidx.core:core:1.10.1] C:\Users\Mamet\.gradle\caches\transforms-3\882a4d3e6fd43968013ab3b708094946\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+22-->[androidx.core:core:1.10.1] C:\Users\Mamet\.gradle\caches\transforms-3\882a4d3e6fd43968013ab3b708094946\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+23
+24    <application
+24-->E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\AndroidManifest.xml:13:5-56:19
+25        android:allowBackup="true"
+25-->E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\AndroidManifest.xml:14:9-35
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.10.1] C:\Users\Mamet\.gradle\caches\transforms-3\882a4d3e6fd43968013ab3b708094946\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+27        android:debuggable="true"
+28        android:extractNativeLibs="false"
+29        android:icon="@mipmap/ic_launcher"
+29-->E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\AndroidManifest.xml:15:9-43
+30        android:label="@string/app_name"
+30-->E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\AndroidManifest.xml:16:9-41
+31        android:roundIcon="@mipmap/ic_launcher_round"
+31-->E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\AndroidManifest.xml:17:9-54
+32        android:supportsRtl="true"
+32-->E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\AndroidManifest.xml:18:9-35
+33        android:testOnly="true"
+34        android:theme="@style/Theme.MyCamera" >
+34-->E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\AndroidManifest.xml:19:9-46
+35        <activity
+35-->E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\AndroidManifest.xml:21:9-29:20
+36            android:name="com.dicoding.picodiploma.mycamera.MainActivity"
+36-->E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\AndroidManifest.xml:22:13-41
+37            android:exported="true" >
+37-->E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\AndroidManifest.xml:23:13-36
+38            <intent-filter>
+38-->E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\AndroidManifest.xml:24:13-28:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\AndroidManifest.xml:25:17-69
+39-->E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\AndroidManifest.xml:25:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\AndroidManifest.xml:27:17-77
+41-->E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\AndroidManifest.xml:27:27-74
+42            </intent-filter>
+43        </activity>
+44        <activity
+44-->E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\AndroidManifest.xml:32:9-34:39
+45            android:name="com.dicoding.picodiploma.mycamera.CameraActivity"
+45-->E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\AndroidManifest.xml:33:13-43
+46            android:exported="false" />
+46-->E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\AndroidManifest.xml:34:13-37
+47
+48        <provider
+49            android:name="androidx.core.content.FileProvider"
+49-->E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\AndroidManifest.xml:37:13-62
+50            android:authorities="com.dicoding.picodiploma.mycamera.fileprovider"
+50-->E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\AndroidManifest.xml:38:13-64
+51            android:exported="false"
+51-->E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\AndroidManifest.xml:39:13-37
+52            android:grantUriPermissions="true" >
+52-->E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\AndroidManifest.xml:40:13-47
+53            <meta-data
+53-->E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\AndroidManifest.xml:41:13-43:53
+54                android:name="android.support.FILE_PROVIDER_PATHS"
+54-->E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\AndroidManifest.xml:42:17-67
+55                android:resource="@xml/file_paths" />
+55-->E:\Github Reposit\latihan-intermediate-android\LatihanIntentCamera\app\src\main\AndroidManifest.xml:43:17-51
+56        </provider>
+57
+58        <!-- <service android:name="com.google.android.gms.metadata.ModuleDependencies" -->
+59        <!-- android:enabled="false" -->
+60        <!-- android:exported="false" -->
+61        <!-- tools:ignore="MissingClass"> -->
+62        <!-- <intent-filter> -->
+63        <!-- <action android:name="com.google.android.gms.metadata.MODULE_DEPENDENCIES" /> -->
+64        <!-- </intent-filter> -->
+65        <!-- <meta-data android:name="photopicker_activity:0:required" android:value="" /> -->
+66        <!-- </service> -->
+67
+68        <service
+68-->[androidx.camera:camera-camera2:1.2.3] C:\Users\Mamet\.gradle\caches\transforms-3\d74b933f39cc5ba00eb7911f72996077\transformed\jetified-camera-camera2-1.2.3\AndroidManifest.xml:24:9-33:19
+69            android:name="androidx.camera.core.impl.MetadataHolderService"
+69-->[androidx.camera:camera-camera2:1.2.3] C:\Users\Mamet\.gradle\caches\transforms-3\d74b933f39cc5ba00eb7911f72996077\transformed\jetified-camera-camera2-1.2.3\AndroidManifest.xml:25:13-75
+70            android:enabled="false"
+70-->[androidx.camera:camera-camera2:1.2.3] C:\Users\Mamet\.gradle\caches\transforms-3\d74b933f39cc5ba00eb7911f72996077\transformed\jetified-camera-camera2-1.2.3\AndroidManifest.xml:26:13-36
+71            android:exported="false" >
+71-->[androidx.camera:camera-camera2:1.2.3] C:\Users\Mamet\.gradle\caches\transforms-3\d74b933f39cc5ba00eb7911f72996077\transformed\jetified-camera-camera2-1.2.3\AndroidManifest.xml:27:13-37
+72            <meta-data
+72-->[androidx.camera:camera-camera2:1.2.3] C:\Users\Mamet\.gradle\caches\transforms-3\d74b933f39cc5ba00eb7911f72996077\transformed\jetified-camera-camera2-1.2.3\AndroidManifest.xml:30:13-32:89
+73                android:name="androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER"
+73-->[androidx.camera:camera-camera2:1.2.3] C:\Users\Mamet\.gradle\caches\transforms-3\d74b933f39cc5ba00eb7911f72996077\transformed\jetified-camera-camera2-1.2.3\AndroidManifest.xml:31:17-103
+74                android:value="androidx.camera.camera2.Camera2Config$DefaultProvider" />
+74-->[androidx.camera:camera-camera2:1.2.3] C:\Users\Mamet\.gradle\caches\transforms-3\d74b933f39cc5ba00eb7911f72996077\transformed\jetified-camera-camera2-1.2.3\AndroidManifest.xml:32:17-86
+75        </service>
+76
+77        <provider
+77-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\38f2e3cabd735e65fb701e4194c8b5af\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+78            android:name="androidx.startup.InitializationProvider"
+78-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\38f2e3cabd735e65fb701e4194c8b5af\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+79            android:authorities="com.dicoding.picodiploma.mycamera.androidx-startup"
+79-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\38f2e3cabd735e65fb701e4194c8b5af\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+80            android:exported="false" >
+80-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\38f2e3cabd735e65fb701e4194c8b5af\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+81            <meta-data
+81-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\38f2e3cabd735e65fb701e4194c8b5af\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+82                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+82-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\38f2e3cabd735e65fb701e4194c8b5af\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+83                android:value="androidx.startup" />
+83-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\38f2e3cabd735e65fb701e4194c8b5af\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+84            <meta-data
+84-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Mamet\.gradle\caches\transforms-3\24918678b495b6e73798427d32008e10\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+85                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+85-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Mamet\.gradle\caches\transforms-3\24918678b495b6e73798427d32008e10\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+86                android:value="androidx.startup" />
+86-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Mamet\.gradle\caches\transforms-3\24918678b495b6e73798427d32008e10\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+87        </provider>
+88    </application>
+89
+90</manifest>

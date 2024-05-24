@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-merged_res-32:\\drawable_ic_switch_camera.xml.flat",
+        "source": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-main-34:\\drawable\\ic_switch_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-merged_res-32:\\mipmap_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-main-34:\\mipmap\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-merged_res-32:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-main-34:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dicoding.picodiploma.mycamera.app-merged_res-32:/layout_activity_camera.xml.flat",
+        "source": "com.dicoding.picodiploma.mycamera.app-main-34:/layout/activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-merged_res-32:\\drawable_ic_place_holder.xml.flat",
+        "source": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-main-34:\\drawable\\ic_place_holder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-merged_res-32:\\mipmap_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-main-34:\\mipmap\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-merged_res-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-merged_res-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-merged_res-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-merged_res-32:\\layout_activity_camera.xml.flat",
+        "source": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-main-34:\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-merged_res-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-merged_res-32:\\drawable_ic_capture.xml.flat",
+        "source": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-main-34:\\drawable\\ic_capture.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Mamet\\.gradle\\daemon\\8.0\\com.dicoding.picodiploma.mycamera.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]
