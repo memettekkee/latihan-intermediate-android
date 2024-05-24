@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">MyGoogleMaps</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <style name="Base.Theme.MyGoogleMaps" parent="Theme.Material3.DayNight">
+        
+        
+    </style>
+    <style name="Theme.MyGoogleMaps" parent="Base.Theme.MyGoogleMaps"/>
+</resources>

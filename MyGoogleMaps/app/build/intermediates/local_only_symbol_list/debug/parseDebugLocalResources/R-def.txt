@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id hybrid_type
+id main
+id map
+id normal_type
+id satellite_type
+id terrain_type
+layout activity_main
+layout activity_maps
+menu map_options
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string hybrid_type
+string normal_type
+string satellite_type
+string terrain_type
+string title_activity_maps
+style Base.Theme.MyGoogleMaps
+style Theme.MyGoogleMaps
+xml backup_rules
+xml data_extraction_rules

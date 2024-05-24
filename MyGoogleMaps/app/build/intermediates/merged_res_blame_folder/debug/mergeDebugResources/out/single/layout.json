@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.dicoding.mygooglemaps.app-mergeDebugResources-33:/layout/activity_main.xml",
+        "source": "com.dicoding.mygooglemaps.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.dicoding.mygooglemaps.app-mergeDebugResources-33:/layout/activity_maps.xml",
+        "source": "com.dicoding.mygooglemaps.app-main-36:/layout/activity_maps.xml"
+    }
+]

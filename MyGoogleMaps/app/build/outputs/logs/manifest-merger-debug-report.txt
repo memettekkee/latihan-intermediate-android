@@ -1,0 +1,372 @@
+-- Merging decision tree log ---
+meta-data#com.google.android.geo.API_KEY
+INJECTED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:27:9-29:42
+	android:value
+		INJECTED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml
+		ADDED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:29:13-40
+	android:name
+		ADDED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:28:13-58
+manifest
+ADDED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:2:1-50:12
+MERGED from [androidx.databinding:viewbinding:8.3.2] C:\Users\Mamet\.gradle\caches\transforms-3\fbb39ad52becc6ede4412013a4cb85f8\transformed\viewbinding-8.3.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Mamet\.gradle\caches\transforms-3\596ee79bf48f357a2853fd5a125d2b34\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Mamet\.gradle\caches\transforms-3\49d4f54bd26e3ad2ce7e1e346fc941ea\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Mamet\.gradle\caches\transforms-3\e02b95b49fb38bbc8f97be0d7c867aeb\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Mamet\.gradle\caches\transforms-3\016061449ae0ddf10526725cb51f705d\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\406f84a526de8504efa3e56ed45d091f\transformed\play-services-maps-18.2.0\AndroidManifest.xml:17:1-44:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\b254b5833b8e5b68c60b56ec80e9497e\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Mamet\.gradle\caches\transforms-3\711c570981c047d96f916d4249e425b2\transformed\play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Mamet\.gradle\caches\transforms-3\814b241c40928d43c438060d5ae0e908\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\4fcde7f9dc016c9194764786ca101285\transformed\play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Mamet\.gradle\caches\transforms-3\b22172d70057df6f80f4b3575fee6e1c\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Mamet\.gradle\caches\transforms-3\57d4ab2034063f0869b0955d846e947f\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Mamet\.gradle\caches\transforms-3\30846fd6d89d5cdbf3b4d4826a028822\transformed\core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\70b188c6227efd7452939ae13e7b8656\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\c6913afbe9293e50d31b6f406cb24067\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Mamet\.gradle\caches\transforms-3\9d3e09e5c79e2560b906448de29ca7bb\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Mamet\.gradle\caches\transforms-3\b43499efa731a96b285acc0a2a895373\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Mamet\.gradle\caches\transforms-3\286659ff98b96bd2a8f2415443133bff\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\f77b3b18233c244d82c35843088c8566\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mamet\.gradle\caches\transforms-3\b222c6c248cd3b81792662520ebb1dfb\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mamet\.gradle\caches\transforms-3\7c92fbb8f25d98d16b6d3545d2f03510\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\8e608a0c5df14f70bdd724e4a051c640\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\0e174b7ec0f9edf21d75e256042f16bd\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\80b02fa8202b1afc1f0d51c4f5cce753\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Mamet\.gradle\caches\transforms-3\184fc02e8249619d12ee2240a024605c\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Mamet\.gradle\caches\transforms-3\cab6cea01657fbcbc545675a3aa2a4cf\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\Mamet\.gradle\caches\transforms-3\d8891b99ac3adaf13b75d703877ec089\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Mamet\.gradle\caches\transforms-3\38468ee9a8723f5a092b63f003fb1e98\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Mamet\.gradle\caches\transforms-3\8c82f6e7c16896c6806b6cbf610d4e5f\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Mamet\.gradle\caches\transforms-3\5f5783cff029508540134117e8bec137\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Mamet\.gradle\caches\transforms-3\17791eeab4922f8c6c68aa626683f17b\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Mamet\.gradle\caches\transforms-3\1134fe6d44715c2e88380fd4e3caafc7\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Mamet\.gradle\caches\transforms-3\479133dc11b8bc8241e49d95fabe1f44\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Mamet\.gradle\caches\transforms-3\56bcc9b28a369bb5f4c953928f50ba03\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\217c41977ce853da7adaabe11de52753\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\f6ec36e943172b546f47f458b3e136ae\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Mamet\.gradle\caches\transforms-3\ad433b9e4d19bacde8f9b03cb43cebe5\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\97586caf9779429a9f373fff6199533c\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\35c42ad7e83c91fb9aab7d797abc0e15\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Mamet\.gradle\caches\transforms-3\355af58b212264045cfb51342e7a7ef5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\628fd403f1126e363107350f5c8c4460\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\d0feb2b1dde25566c6235da82fc7db68\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\49aae41a48847cdb6f72fa8d3818c8ab\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\4368acea86477659e16dd48c3d203998\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Mamet\.gradle\caches\transforms-3\5434033b7554052cb7cf1ef3b56b77e4\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:5:5-48:19
+INJECTED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:5:5-48:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Mamet\.gradle\caches\transforms-3\596ee79bf48f357a2853fd5a125d2b34\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Mamet\.gradle\caches\transforms-3\596ee79bf48f357a2853fd5a125d2b34\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Mamet\.gradle\caches\transforms-3\49d4f54bd26e3ad2ce7e1e346fc941ea\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Mamet\.gradle\caches\transforms-3\49d4f54bd26e3ad2ce7e1e346fc941ea\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\406f84a526de8504efa3e56ed45d091f\transformed\play-services-maps-18.2.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\406f84a526de8504efa3e56ed45d091f\transformed\play-services-maps-18.2.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Mamet\.gradle\caches\transforms-3\711c570981c047d96f916d4249e425b2\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Mamet\.gradle\caches\transforms-3\711c570981c047d96f916d4249e425b2\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Mamet\.gradle\caches\transforms-3\814b241c40928d43c438060d5ae0e908\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Mamet\.gradle\caches\transforms-3\814b241c40928d43c438060d5ae0e908\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\4fcde7f9dc016c9194764786ca101285\transformed\play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\4fcde7f9dc016c9194764786ca101285\transformed\play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\c6913afbe9293e50d31b6f406cb24067\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\c6913afbe9293e50d31b6f406cb24067\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\Mamet\.gradle\caches\transforms-3\d8891b99ac3adaf13b75d703877ec089\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\Mamet\.gradle\caches\transforms-3\d8891b99ac3adaf13b75d703877ec089\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Mamet\.gradle\caches\transforms-3\5f5783cff029508540134117e8bec137\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Mamet\.gradle\caches\transforms-3\5f5783cff029508540134117e8bec137\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Mamet\.gradle\caches\transforms-3\ad433b9e4d19bacde8f9b03cb43cebe5\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Mamet\.gradle\caches\transforms-3\ad433b9e4d19bacde8f9b03cb43cebe5\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Mamet\.gradle\caches\transforms-3\355af58b212264045cfb51342e7a7ef5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Mamet\.gradle\caches\transforms-3\355af58b212264045cfb51342e7a7ef5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Mamet\.gradle\caches\transforms-3\d8891b99ac3adaf13b75d703877ec089\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:11:9-54
+	tools:targetApi
+		ADDED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:13:9-50
+	android:dataExtractionRules
+		ADDED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:7:9-65
+activity#com.dicoding.mygooglemaps.MapsActivity
+ADDED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:31:9-42:20
+	android:label
+		ADDED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:34:13-56
+	android:exported
+		ADDED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:33:13-36
+	android:name
+		ADDED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:32:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:39:27-74
+activity#com.dicoding.mygooglemaps.MainActivity
+ADDED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:43:9-47:20
+	android:exported
+		ADDED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:44:13-41
+uses-sdk
+INJECTED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml
+INJECTED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.3.2] C:\Users\Mamet\.gradle\caches\transforms-3\fbb39ad52becc6ede4412013a4cb85f8\transformed\viewbinding-8.3.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.3.2] C:\Users\Mamet\.gradle\caches\transforms-3\fbb39ad52becc6ede4412013a4cb85f8\transformed\viewbinding-8.3.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Mamet\.gradle\caches\transforms-3\596ee79bf48f357a2853fd5a125d2b34\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Mamet\.gradle\caches\transforms-3\596ee79bf48f357a2853fd5a125d2b34\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Mamet\.gradle\caches\transforms-3\49d4f54bd26e3ad2ce7e1e346fc941ea\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Mamet\.gradle\caches\transforms-3\49d4f54bd26e3ad2ce7e1e346fc941ea\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Mamet\.gradle\caches\transforms-3\e02b95b49fb38bbc8f97be0d7c867aeb\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Mamet\.gradle\caches\transforms-3\e02b95b49fb38bbc8f97be0d7c867aeb\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Mamet\.gradle\caches\transforms-3\016061449ae0ddf10526725cb51f705d\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Mamet\.gradle\caches\transforms-3\016061449ae0ddf10526725cb51f705d\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\406f84a526de8504efa3e56ed45d091f\transformed\play-services-maps-18.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\406f84a526de8504efa3e56ed45d091f\transformed\play-services-maps-18.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\b254b5833b8e5b68c60b56ec80e9497e\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\b254b5833b8e5b68c60b56ec80e9497e\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Mamet\.gradle\caches\transforms-3\711c570981c047d96f916d4249e425b2\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Mamet\.gradle\caches\transforms-3\711c570981c047d96f916d4249e425b2\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Mamet\.gradle\caches\transforms-3\814b241c40928d43c438060d5ae0e908\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Mamet\.gradle\caches\transforms-3\814b241c40928d43c438060d5ae0e908\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\4fcde7f9dc016c9194764786ca101285\transformed\play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\4fcde7f9dc016c9194764786ca101285\transformed\play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Mamet\.gradle\caches\transforms-3\b22172d70057df6f80f4b3575fee6e1c\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Mamet\.gradle\caches\transforms-3\b22172d70057df6f80f4b3575fee6e1c\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Mamet\.gradle\caches\transforms-3\57d4ab2034063f0869b0955d846e947f\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Mamet\.gradle\caches\transforms-3\57d4ab2034063f0869b0955d846e947f\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Mamet\.gradle\caches\transforms-3\30846fd6d89d5cdbf3b4d4826a028822\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Mamet\.gradle\caches\transforms-3\30846fd6d89d5cdbf3b4d4826a028822\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\70b188c6227efd7452939ae13e7b8656\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\70b188c6227efd7452939ae13e7b8656\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\c6913afbe9293e50d31b6f406cb24067\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\c6913afbe9293e50d31b6f406cb24067\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Mamet\.gradle\caches\transforms-3\9d3e09e5c79e2560b906448de29ca7bb\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Mamet\.gradle\caches\transforms-3\9d3e09e5c79e2560b906448de29ca7bb\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Mamet\.gradle\caches\transforms-3\b43499efa731a96b285acc0a2a895373\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Mamet\.gradle\caches\transforms-3\b43499efa731a96b285acc0a2a895373\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Mamet\.gradle\caches\transforms-3\286659ff98b96bd2a8f2415443133bff\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Mamet\.gradle\caches\transforms-3\286659ff98b96bd2a8f2415443133bff\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\f77b3b18233c244d82c35843088c8566\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\f77b3b18233c244d82c35843088c8566\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mamet\.gradle\caches\transforms-3\b222c6c248cd3b81792662520ebb1dfb\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mamet\.gradle\caches\transforms-3\b222c6c248cd3b81792662520ebb1dfb\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mamet\.gradle\caches\transforms-3\7c92fbb8f25d98d16b6d3545d2f03510\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mamet\.gradle\caches\transforms-3\7c92fbb8f25d98d16b6d3545d2f03510\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\8e608a0c5df14f70bdd724e4a051c640\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\8e608a0c5df14f70bdd724e4a051c640\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\0e174b7ec0f9edf21d75e256042f16bd\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\0e174b7ec0f9edf21d75e256042f16bd\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\80b02fa8202b1afc1f0d51c4f5cce753\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\80b02fa8202b1afc1f0d51c4f5cce753\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Mamet\.gradle\caches\transforms-3\184fc02e8249619d12ee2240a024605c\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Mamet\.gradle\caches\transforms-3\184fc02e8249619d12ee2240a024605c\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Mamet\.gradle\caches\transforms-3\cab6cea01657fbcbc545675a3aa2a4cf\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Mamet\.gradle\caches\transforms-3\cab6cea01657fbcbc545675a3aa2a4cf\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.1] C:\Users\Mamet\.gradle\caches\transforms-3\d8891b99ac3adaf13b75d703877ec089\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\Mamet\.gradle\caches\transforms-3\d8891b99ac3adaf13b75d703877ec089\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Mamet\.gradle\caches\transforms-3\38468ee9a8723f5a092b63f003fb1e98\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Mamet\.gradle\caches\transforms-3\38468ee9a8723f5a092b63f003fb1e98\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Mamet\.gradle\caches\transforms-3\8c82f6e7c16896c6806b6cbf610d4e5f\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Mamet\.gradle\caches\transforms-3\8c82f6e7c16896c6806b6cbf610d4e5f\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Mamet\.gradle\caches\transforms-3\5f5783cff029508540134117e8bec137\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Mamet\.gradle\caches\transforms-3\5f5783cff029508540134117e8bec137\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Mamet\.gradle\caches\transforms-3\17791eeab4922f8c6c68aa626683f17b\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Mamet\.gradle\caches\transforms-3\17791eeab4922f8c6c68aa626683f17b\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Mamet\.gradle\caches\transforms-3\1134fe6d44715c2e88380fd4e3caafc7\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Mamet\.gradle\caches\transforms-3\1134fe6d44715c2e88380fd4e3caafc7\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Mamet\.gradle\caches\transforms-3\479133dc11b8bc8241e49d95fabe1f44\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Mamet\.gradle\caches\transforms-3\479133dc11b8bc8241e49d95fabe1f44\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Mamet\.gradle\caches\transforms-3\56bcc9b28a369bb5f4c953928f50ba03\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Mamet\.gradle\caches\transforms-3\56bcc9b28a369bb5f4c953928f50ba03\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\217c41977ce853da7adaabe11de52753\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\217c41977ce853da7adaabe11de52753\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\f6ec36e943172b546f47f458b3e136ae\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\f6ec36e943172b546f47f458b3e136ae\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Mamet\.gradle\caches\transforms-3\ad433b9e4d19bacde8f9b03cb43cebe5\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Mamet\.gradle\caches\transforms-3\ad433b9e4d19bacde8f9b03cb43cebe5\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\97586caf9779429a9f373fff6199533c\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\97586caf9779429a9f373fff6199533c\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\35c42ad7e83c91fb9aab7d797abc0e15\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\35c42ad7e83c91fb9aab7d797abc0e15\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Mamet\.gradle\caches\transforms-3\355af58b212264045cfb51342e7a7ef5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Mamet\.gradle\caches\transforms-3\355af58b212264045cfb51342e7a7ef5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\628fd403f1126e363107350f5c8c4460\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\628fd403f1126e363107350f5c8c4460\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\d0feb2b1dde25566c6235da82fc7db68\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\d0feb2b1dde25566c6235da82fc7db68\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\49aae41a48847cdb6f72fa8d3818c8ab\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\49aae41a48847cdb6f72fa8d3818c8ab\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\4368acea86477659e16dd48c3d203998\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\4368acea86477659e16dd48c3d203998\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Mamet\.gradle\caches\transforms-3\5434033b7554052cb7cf1ef3b56b77e4\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Mamet\.gradle\caches\transforms-3\5434033b7554052cb7cf1ef3b56b77e4\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\406f84a526de8504efa3e56ed45d091f\transformed\play-services-maps-18.2.0\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\406f84a526de8504efa3e56ed45d091f\transformed\play-services-maps-18.2.0\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\406f84a526de8504efa3e56ed45d091f\transformed\play-services-maps-18.2.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\406f84a526de8504efa3e56ed45d091f\transformed\play-services-maps-18.2.0\AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\406f84a526de8504efa3e56ed45d091f\transformed\play-services-maps-18.2.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\406f84a526de8504efa3e56ed45d091f\transformed\play-services-maps-18.2.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\406f84a526de8504efa3e56ed45d091f\transformed\play-services-maps-18.2.0\AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\406f84a526de8504efa3e56ed45d091f\transformed\play-services-maps-18.2.0\AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\406f84a526de8504efa3e56ed45d091f\transformed\play-services-maps-18.2.0\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\406f84a526de8504efa3e56ed45d091f\transformed\play-services-maps-18.2.0\AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\406f84a526de8504efa3e56ed45d091f\transformed\play-services-maps-18.2.0\AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\406f84a526de8504efa3e56ed45d091f\transformed\play-services-maps-18.2.0\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\406f84a526de8504efa3e56ed45d091f\transformed\play-services-maps-18.2.0\AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Mamet\.gradle\caches\transforms-3\711c570981c047d96f916d4249e425b2\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Mamet\.gradle\caches\transforms-3\711c570981c047d96f916d4249e425b2\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Mamet\.gradle\caches\transforms-3\711c570981c047d96f916d4249e425b2\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Mamet\.gradle\caches\transforms-3\711c570981c047d96f916d4249e425b2\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\4fcde7f9dc016c9194764786ca101285\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\4fcde7f9dc016c9194764786ca101285\transformed\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\4fcde7f9dc016c9194764786ca101285\transformed\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\c6913afbe9293e50d31b6f406cb24067\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Mamet\.gradle\caches\transforms-3\5f5783cff029508540134117e8bec137\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Mamet\.gradle\caches\transforms-3\5f5783cff029508540134117e8bec137\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Mamet\.gradle\caches\transforms-3\ad433b9e4d19bacde8f9b03cb43cebe5\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Mamet\.gradle\caches\transforms-3\ad433b9e4d19bacde8f9b03cb43cebe5\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\c6913afbe9293e50d31b6f406cb24067\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\c6913afbe9293e50d31b6f406cb24067\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\c6913afbe9293e50d31b6f406cb24067\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\c6913afbe9293e50d31b6f406cb24067\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\c6913afbe9293e50d31b6f406cb24067\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\c6913afbe9293e50d31b6f406cb24067\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\c6913afbe9293e50d31b6f406cb24067\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Mamet\.gradle\caches\transforms-3\d8891b99ac3adaf13b75d703877ec089\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Mamet\.gradle\caches\transforms-3\d8891b99ac3adaf13b75d703877ec089\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Mamet\.gradle\caches\transforms-3\d8891b99ac3adaf13b75d703877ec089\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#com.dicoding.mygooglemaps.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Mamet\.gradle\caches\transforms-3\d8891b99ac3adaf13b75d703877ec089\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Mamet\.gradle\caches\transforms-3\d8891b99ac3adaf13b75d703877ec089\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Mamet\.gradle\caches\transforms-3\d8891b99ac3adaf13b75d703877ec089\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Mamet\.gradle\caches\transforms-3\d8891b99ac3adaf13b75d703877ec089\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Mamet\.gradle\caches\transforms-3\d8891b99ac3adaf13b75d703877ec089\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#com.dicoding.mygooglemaps.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Mamet\.gradle\caches\transforms-3\d8891b99ac3adaf13b75d703877ec089\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Mamet\.gradle\caches\transforms-3\d8891b99ac3adaf13b75d703877ec089\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Mamet\.gradle\caches\transforms-3\5f5783cff029508540134117e8bec137\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Mamet\.gradle\caches\transforms-3\5f5783cff029508540134117e8bec137\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Mamet\.gradle\caches\transforms-3\5f5783cff029508540134117e8bec137\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92

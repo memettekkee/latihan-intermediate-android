@@ -1,0 +1,204 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.dicoding.mygooglemaps"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <!-- Include required permissions for Google Maps API to run. -->
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\406f84a526de8504efa3e56ed45d091f\transformed\play-services-maps-18.2.0\AndroidManifest.xml:23:5-79
+12-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\406f84a526de8504efa3e56ed45d091f\transformed\play-services-maps-18.2.0\AndroidManifest.xml:23:22-76
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\406f84a526de8504efa3e56ed45d091f\transformed\play-services-maps-18.2.0\AndroidManifest.xml:24:5-67
+13-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\406f84a526de8504efa3e56ed45d091f\transformed\play-services-maps-18.2.0\AndroidManifest.xml:24:22-64
+14
+15    <uses-feature
+15-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\406f84a526de8504efa3e56ed45d091f\transformed\play-services-maps-18.2.0\AndroidManifest.xml:26:5-28:35
+16        android:glEsVersion="0x00020000"
+16-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\406f84a526de8504efa3e56ed45d091f\transformed\play-services-maps-18.2.0\AndroidManifest.xml:27:9-41
+17        android:required="true" />
+17-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\406f84a526de8504efa3e56ed45d091f\transformed\play-services-maps-18.2.0\AndroidManifest.xml:28:9-32
+18
+19    <queries>
+19-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\406f84a526de8504efa3e56ed45d091f\transformed\play-services-maps-18.2.0\AndroidManifest.xml:30:5-34:15
+20
+21        <!-- Needs to be explicitly declared on Android R+ -->
+22        <package android:name="com.google.android.apps.maps" />
+22-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\406f84a526de8504efa3e56ed45d091f\transformed\play-services-maps-18.2.0\AndroidManifest.xml:33:9-64
+22-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\406f84a526de8504efa3e56ed45d091f\transformed\play-services-maps-18.2.0\AndroidManifest.xml:33:18-61
+23    </queries>
+24
+25    <permission
+25-->[androidx.core:core:1.13.1] C:\Users\Mamet\.gradle\caches\transforms-3\d8891b99ac3adaf13b75d703877ec089\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+26        android:name="com.dicoding.mygooglemaps.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+26-->[androidx.core:core:1.13.1] C:\Users\Mamet\.gradle\caches\transforms-3\d8891b99ac3adaf13b75d703877ec089\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+27        android:protectionLevel="signature" />
+27-->[androidx.core:core:1.13.1] C:\Users\Mamet\.gradle\caches\transforms-3\d8891b99ac3adaf13b75d703877ec089\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+28
+29    <uses-permission android:name="com.dicoding.mygooglemaps.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+29-->[androidx.core:core:1.13.1] C:\Users\Mamet\.gradle\caches\transforms-3\d8891b99ac3adaf13b75d703877ec089\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+29-->[androidx.core:core:1.13.1] C:\Users\Mamet\.gradle\caches\transforms-3\d8891b99ac3adaf13b75d703877ec089\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+30
+31    <application
+31-->E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:5:5-48:19
+32        android:allowBackup="true"
+32-->E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:6:9-35
+33        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+33-->[androidx.core:core:1.13.1] C:\Users\Mamet\.gradle\caches\transforms-3\d8891b99ac3adaf13b75d703877ec089\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+34        android:dataExtractionRules="@xml/data_extraction_rules"
+34-->E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:7:9-65
+35        android:debuggable="true"
+36        android:extractNativeLibs="false"
+37        android:fullBackupContent="@xml/backup_rules"
+37-->E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:8:9-54
+38        android:icon="@mipmap/ic_launcher"
+38-->E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:9:9-43
+39        android:label="@string/app_name"
+39-->E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:10:9-41
+40        android:roundIcon="@mipmap/ic_launcher_round"
+40-->E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:11:9-54
+41        android:supportsRtl="true"
+41-->E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:12:9-35
+42        android:testOnly="true"
+43        android:theme="@style/Theme.MyGoogleMaps" >
+43-->E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:13:9-50
+44
+45        <!--
+46             TODO: Before you run your application, you need a Google Maps API key.
+47
+48             To get one, follow the directions here:
+49
+50                https://developers.google.com/maps/documentation/android-sdk/get-api-key
+51
+52             Once you have your API key (it starts with "AIza"), define a new property in your
+53             project's local.properties file (e.g. MAPS_API_KEY=Aiza...), and replace the
+54             "YOUR_API_KEY" string in this file with "${MAPS_API_KEY}".
+55        -->
+56        <meta-data
+57            android:name="com.google.android.geo.API_KEY"
+57-->E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:28:13-58
+58            android:value="AIzaSyCkhgFW7fxjOv4_SbBTLWiGN9yeKYeQZ1g" />
+58-->E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:29:13-40
+59
+60        <activity
+60-->E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:31:9-42:20
+61            android:name="com.dicoding.mygooglemaps.MapsActivity"
+61-->E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:32:13-41
+62            android:exported="true"
+62-->E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:33:13-36
+63            android:label="@string/title_activity_maps" >
+63-->E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:34:13-56
+64            <intent-filter>
+64-->E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:36:13-40:29
+65                <action android:name="android.intent.action.MAIN" />
+65-->E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:37:17-69
+65-->E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:37:25-66
+66
+67                <category android:name="android.intent.category.LAUNCHER" />
+67-->E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:39:17-77
+67-->E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:39:27-74
+68            </intent-filter>
+69        </activity>
+70        <activity
+70-->E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:43:9-47:20
+71            android:name="com.dicoding.mygooglemaps.MainActivity"
+71-->E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:44:13-41
+72            android:exported="false" >
+72-->E:\Github Reposit\latihan-intermediate-android\MyGoogleMaps\app\src\main\AndroidManifest.xml:45:13-37
+73        </activity>
+74        <!-- Needs to be explicitly declared on P+ -->
+75        <uses-library
+75-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\406f84a526de8504efa3e56ed45d091f\transformed\play-services-maps-18.2.0\AndroidManifest.xml:39:9-41:40
+76            android:name="org.apache.http.legacy"
+76-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\406f84a526de8504efa3e56ed45d091f\transformed\play-services-maps-18.2.0\AndroidManifest.xml:40:13-50
+77            android:required="false" />
+77-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\406f84a526de8504efa3e56ed45d091f\transformed\play-services-maps-18.2.0\AndroidManifest.xml:41:13-37
+78
+79        <activity
+79-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Mamet\.gradle\caches\transforms-3\711c570981c047d96f916d4249e425b2\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+80            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+80-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Mamet\.gradle\caches\transforms-3\711c570981c047d96f916d4249e425b2\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+81            android:exported="false"
+81-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Mamet\.gradle\caches\transforms-3\711c570981c047d96f916d4249e425b2\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+82            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+82-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Mamet\.gradle\caches\transforms-3\711c570981c047d96f916d4249e425b2\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+83
+84        <meta-data
+84-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\4fcde7f9dc016c9194764786ca101285\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+85            android:name="com.google.android.gms.version"
+85-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\4fcde7f9dc016c9194764786ca101285\transformed\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+86            android:value="@integer/google_play_services_version" />
+86-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Mamet\.gradle\caches\transforms-3\4fcde7f9dc016c9194764786ca101285\transformed\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+87
+88        <provider
+88-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\c6913afbe9293e50d31b6f406cb24067\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+89            android:name="androidx.startup.InitializationProvider"
+89-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\c6913afbe9293e50d31b6f406cb24067\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+90            android:authorities="com.dicoding.mygooglemaps.androidx-startup"
+90-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\c6913afbe9293e50d31b6f406cb24067\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+91            android:exported="false" >
+91-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\c6913afbe9293e50d31b6f406cb24067\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+92            <meta-data
+92-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\c6913afbe9293e50d31b6f406cb24067\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+93                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+93-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\c6913afbe9293e50d31b6f406cb24067\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+94                android:value="androidx.startup" />
+94-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mamet\.gradle\caches\transforms-3\c6913afbe9293e50d31b6f406cb24067\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+95            <meta-data
+95-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Mamet\.gradle\caches\transforms-3\5f5783cff029508540134117e8bec137\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+96                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+96-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Mamet\.gradle\caches\transforms-3\5f5783cff029508540134117e8bec137\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+97                android:value="androidx.startup" />
+97-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Mamet\.gradle\caches\transforms-3\5f5783cff029508540134117e8bec137\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+98            <meta-data
+98-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+99                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+99-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+100                android:value="androidx.startup" />
+100-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+101        </provider>
+102
+103        <receiver
+103-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+104            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+104-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+105            android:directBootAware="false"
+105-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+106            android:enabled="true"
+106-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+107            android:exported="true"
+107-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+108            android:permission="android.permission.DUMP" >
+108-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+109            <intent-filter>
+109-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+110                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+110-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+110-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+111            </intent-filter>
+112            <intent-filter>
+112-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+113                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+113-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+113-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+114            </intent-filter>
+115            <intent-filter>
+115-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+116                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+116-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+116-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+117            </intent-filter>
+118            <intent-filter>
+118-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+119                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+119-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+119-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mamet\.gradle\caches\transforms-3\87189ebd225cc6e5578935ff9a400ac5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+120            </intent-filter>
+121        </receiver>
+122    </application>
+123
+124</manifest>
