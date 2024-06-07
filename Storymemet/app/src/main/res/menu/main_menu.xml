@@ -14,9 +14,8 @@
         android:id="@+id/maps"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:icon="@drawable/baseline_logout_24"
-        android:title="@string/logout"
+        android:icon="@drawable/baseline_location_on_24"
+        android:title="@string/maps"
         app:showAsAction="ifRoom" />
-
 
 </menu>

@@ -57,12 +57,23 @@ class Repository private constructor(
         ).liveData
     }
 
-    suspend fun getStoriesRepo(token: String): StoryResponse {
+//    suspend fun getStoriesRepo(token: String): StoryResponse {
+//        return withContext(Dispatchers.IO) {
+//            if (token.isEmpty()) {
+//                return@withContext StoryResponse()
+//            } else {
+//                return@withContext ApiConfig.getApiServiceWithToken(token).getStories().execute().body()!!
+//
+//            }
+//        }
+//    }
+
+    suspend fun getStoriesRepo(token: String, page: Int, size: Int): StoryResponse {
         return withContext(Dispatchers.IO) {
             if (token.isEmpty()) {
                 return@withContext StoryResponse()
             } else {
-                return@withContext ApiConfig.getApiServiceWithToken(token).getStories().execute().body()!!
+                return@withContext ApiConfig.getApiServiceWithToken(token).getStories(page, size).execute().body()!!
 
             }
         }

@@ -21,6 +21,8 @@ import inter.storymemet.ViewModelFactory
 import inter.storymemet.databinding.ActivityMainBinding
 import inter.storymemet.paging.LoadingStateAdapter
 import inter.storymemet.view.maps.MapsActivity
+import inter.storymemet.view.post_story.PostActivity
+import inter.storymemet.view.welcome.WelcomeActivity
 
 
 class MainActivity : AppCompatActivity() {
@@ -44,27 +46,27 @@ class MainActivity : AppCompatActivity() {
         setupRecyclerView()
         binding.loadingMain.visibility = View.GONE
 
-//        viewModel.getSession().observe(this) { user ->
-//            if (!user.isLogin) {
-//                startActivity(Intent(this, WelcomeActivity::class.java))
-//                finish()
-//            } else {
-//                binding.loadingMain.visibility = View.VISIBLE
-//                setupView()
-//                setupAction()
-//                setupRecyclerView()
-//                binding.loadingMain.visibility = View.GONE
-//            }
-//
-//            binding.fabAdd.setOnClickListener {
-//                val addIntent = Intent(this, PostActivity::class.java)
-//                startActivity(addIntent)
-//            }
+        viewModel.getSession().observe(this) { user ->
+            if (!user.isLogin) {
+                startActivity(Intent(this, WelcomeActivity::class.java))
+                finish()
+            } else {
+                binding.loadingMain.visibility = View.VISIBLE
+                setupView()
+                setupAction()
+                setupRecyclerView()
+                binding.loadingMain.visibility = View.GONE
+            }
+
+            binding.fabAdd.setOnClickListener {
+                val addIntent = Intent(this, PostActivity::class.java)
+                startActivity(addIntent)
+            }
 
         if (!allPermissionsGranted()) {
             requestPermissionLauncher.launch(REQUIRED_PERMISSION)
         }
-//        }
+        }
     }
 
     private fun setupRecyclerView() {

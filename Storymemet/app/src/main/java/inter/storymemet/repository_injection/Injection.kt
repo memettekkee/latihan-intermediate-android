@@ -8,5 +8,4 @@ object Injection {
         return Repository.getInstance(pref)
     }
 
-//    fun providePagingRepository(context: Context):
 }

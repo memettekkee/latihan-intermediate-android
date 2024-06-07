@@ -23,7 +23,7 @@ class StoryPagingSource(private val repository: Repository, private val preferen
             val tokenUser = preferences.getSession().first().token
             if (tokenUser.isNotEmpty()) {
 //                val responseData = apiService.dataStoriesPaging(tokenUser, page, params.loadSize)
-                val responseData = repository.getStoriesRepo(tokenUser)
+                val responseData = repository.getStoriesRepo(tokenUser, page, params.loadSize)
                 Log.d("dataPaging", "$responseData")
 
                 LoadResult.Page(
